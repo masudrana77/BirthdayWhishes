@@ -1286,8 +1286,8 @@ o @keyframes bannar_come {
   font-family: 'Signika', sans-serif;
   font-size: 30px;
   text-transform: uppercase;
-  color: rgb(172, 169, 169);
-  text-shadow: 2px 2px 2px #fff;
+  color: rgb(255, 215, 0,0.7);
+  text-shadow: 0px 0px 6px;
   display: none;
   font-weight: bold;
 }
